@@ -23,3 +23,13 @@
     font-size: 15pt;
     font-family: monospace;
 }
+
+.topnav a {
+    float: right;
+    color: rgb(229, 229, 229);
+    text-align: center;
+    padding: 10px 25px; 
+}
+.topnav a:hover {
+    background-color:rgb(58, 62, 58);
+}

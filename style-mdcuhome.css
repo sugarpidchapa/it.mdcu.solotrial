@@ -33,3 +33,16 @@
 .topnav a:hover {
     background-color:rgb(58, 62, 58);
 }
+
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    font-size: 20pt;
+    text-indent: 5%;
+    margin-left:3% ;
+}
+
+img {
+    margin-left: 40% ;
+    }
+
